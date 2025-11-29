@@ -45,24 +45,19 @@ El objetivo es:
 Comunicación RF en bandas de 2.4 GHz para:
 
 [+] pruebas de laboratorio
-
 [+] análisis de paquetes
-
 [+] detección de actividad RF
-
 [+] mediciones comparativas basicas.
 
 🔋 Portabilidad total
 
 [+] Batería interna 
-
 [+] tamaño compacto 
-
 [+] ideal para pruebas de campo controladas.
 
 🧩 Firmware ligero y rápido
 
-[+]Interacción inmediata y menús optimizados.
+[+] Interacción inmediata y menús optimizados.
 
 🔐 Enfoque ético de investigación
 
