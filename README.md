@@ -81,4 +81,33 @@ Comunicación RF en bandas de 2.4 GHz para:
 | Cable | USB-C |
 | Alimentación | 5V / 500mA |
 
+###📥 Instalación (Firmware Bruce)
+
+1. Preparar entorno
+
+Instalar M5Burner
+
+Descargar el firmware Bruce para ESP32/M5StickC
+
+2. Conectar el M5StickC Plus2
+
+Conectar por USB-C
+
+Abrir M5Burner
+
+Seleccionar dispositivo
+
+3. Flashear
+
+Elegir “Bruce”
+
+Configurar WiFi si aplica (algunas versiones)
+
+Burn
+
+Reiniciar
+
+4. Inicio
+
+Debes ver en pantalla el menú principal de Bruce.
 
