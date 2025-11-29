@@ -1,4 +1,6 @@
-# M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-
+# M5StickC M2 + Bruce = Hacking de bolsillo
+
+![](https://github.com/J4zzu3/M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-/blob/main/Captura%20de%20pantalla%202025-11-28%20212133.png)
 
 ### 📋 Descripción
 
@@ -155,4 +157,22 @@ Bruce nos permite cargar nuestra propio codigo HTML y crear un portal cautivo.
  
  Podemos añadir un modulo  NRF24L01 gracias a su diseño modular y a los pines GPIO que tiene el M5STICK M2 
  
+ 🎯 RF Traffic Burst (Controlado)
  
+ Envío continuo de paquetes de datos para experimentos de congestión en entornos propios.
+
+ 🎯 Escaneo de canales NRF 2.4 GHz
+ 
+  Nos permite ver los canales de la frecuencia 2.4 GHz ( Bluetooth - Wifi )
+
+###  🔧 Necesitamos:
+
+📟[Módulo NRF24L01](https://es.aliexpress.com/item/1005006943500925.html?aff_fcid=3f833e8f0238416da24b430a58b968e2-1764384462253-07797-_ooVOKwt&tt=CPS_NORMAL&aff_fsk=_ooVOKwt&aff_platform=shareComponent-detail&sk=_ooVOKwt&aff_trace_key=3f833e8f0238416da24b430a58b968e2-1764384462253-07797-_ooVOKwt&terminal_id=1ce0501773ca465db250af5e16392115&afSmartRedirect=y)
+
+➿[Cables Jumper](https://es.aliexpress.com/item/1005007967664210.html?aff_fcid=99ac26813ca949e1aa23080269841f1a-1764384694146-09514-_oEV9OdB&tt=CPS_NORMAL&aff_fsk=_oEV9OdB&aff_platform=shareComponent-detail&sk=_oEV9OdB&aff_trace_key=99ac26813ca949e1aa23080269841f1a-1764384694146-09514-_oEV9OdB&terminal_id=1ce0501773ca465db250af5e16392115&afSmartRedirect=y)
+
+📡[Antena](https://es.aliexpress.com/item/1005005576170270.html?aff_fcid=889172db1a31468ea02acd6c642dc8f2-1764384726507-09700-_o2EPXFf&tt=CPS_NORMAL&aff_fsk=_o2EPXFf&aff_platform=shareComponent-detail&sk=_o2EPXFf&aff_trace_key=889172db1a31468ea02acd6c642dc8f2-1764384726507-09700-_o2EPXFf&terminal_id=1ce0501773ca465db250af5e16392115&afSmartRedirect=y)
+
+### ⚙️ Seguimos:
+
+
