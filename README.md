@@ -94,9 +94,10 @@ Instalar M5Burner
 
 Descargar el firmware Bruce para ESP32/M5StickC
 
+
 2. Conectar el M5StickC Plus2
 
-Conectar por USB-C
+Conectar USB-C
 
 Abrir M5Burner
 
