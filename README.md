@@ -124,15 +124,17 @@ Debes ver en pantalla el menú principal de Bruce.
 
 🎯 BLE Beacon Flood
 
---> Generación masiva de anuncios BLE para pruebas de carga, ruido y resistencia de escáneres.
+Generación masiva de anuncios BLE para pruebas de carga, ruido y resistencia de escáneres.
 
 🎯 Random MAC Advertising
 
---> Anuncios BLE con direcciones MAC aleatorias.
+Anuncios BLE con direcciones MAC aleatorias.
 
 🎯 BLE scan
 
---> Nos muestra en tiempo real las MAC de los dispositicos en nuestro radio de alcance
+Nos muestra en tiempo real las MAC de los dispositicos en nuestro radio de alcance
+
+---
 
 # 🌐 WIFI
 
@@ -149,5 +151,8 @@ Consiste en un atacante que falsifica y envía repetidamente marcos de desconexi
 Bruce nos permite cargar nuestra propio codigo HTML y crear un portal cautivo.
 
 
+ # 📡 RF (NRF24L01)
+ 
+ Podemos añadir un modulo  NRF24L01 gracias a su diseño modular y a los pines GPIO que tiene el M5STICK M2 
  
  
