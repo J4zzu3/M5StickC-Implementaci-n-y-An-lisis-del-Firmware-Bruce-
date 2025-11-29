@@ -122,23 +122,31 @@ Debes ver en pantalla el menú principal de Bruce.
 
 # 🔵 BLUETOOTH / BLE
 
-<3 BLE Beacon Flood
+🎯 BLE Beacon Flood
 
 --> Generación masiva de anuncios BLE para pruebas de carga, ruido y resistencia de escáneres.
 
-<3 Random MAC Advertising
+🎯 Random MAC Advertising
 
 --> Anuncios BLE con direcciones MAC aleatorias.
 
-<3 BLE scan
+🎯 BLE scan
 
 --> Nos muestra en tiempo real las MAC de los dispositicos en nuestro radio de alcance
 
 # 🌐 WIFI
 
-<3 Beacon Spam
+🎯 Beacon Spam
 
+Generación de varios SSIDs falsos para pruebas de descubrimiento en redes aisladas.
 
+🎯 Deauth Flood
+
+Consiste en un atacante que falsifica y envía repetidamente marcos de desconexión a los usuarios para forzarlos a desconectarse de la red Wi-Fi, logrando una Denegación de Servicio (DoS) efectiva.
+
+🎯 Evil Portal
+
+Bruce nos permite cargar nuestra propio codigo HTML y crear un portal cautivo.
 
 
  
