@@ -107,8 +107,6 @@ Seleccionar dispositivos
 
 Elegir “Bruce”
 
-Configurar WiFi si aplica (algunas versiones)
-
 Burn
 
 Reiniciar
@@ -121,4 +119,11 @@ Debes ver en pantalla el menú principal de Bruce.
 
  ### 🚀 Uso 
  
-[Intalacion de M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
+# La interacción estándar incluye:
+
+# 🔵 BLUETOOTH / BLE
+
+
+
+ 
+ 
