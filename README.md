@@ -22,7 +22,7 @@ El objetivo es:
 
 [+] Documentar el proceso de instalación, uso y limitaciones del firmware Bruce
 
-### Y APROVECHAR EL ECOSISTEMA DEL HARWARE HACKING............
+### Y APROVECHAR EL ECOSISTEMA DEL HARDWARE HACKING............
 
 ---
 
