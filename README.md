@@ -1,6 +1,6 @@
 # M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-
 
-📋 Descripción
+### 📋 Descripción
 
 Este proyecto documenta el uso del M5StickC ejecutando el firmware Bruce de codigo abierto, un firmware orientado a pruebas de seguridad e investigación en dispositivos IoT/BLE. 
 
@@ -8,7 +8,7 @@ El M5StickC, basado en ESP32, permite interactuar con diferentes protocolos inal
 
 ---
 
-🎯 Propósito Educativo
+### 🎯 Propósito Educativo
 
 El objetivo es:
 
@@ -26,7 +26,7 @@ El objetivo es:
 
 ---
 
-✨ Características del Proyecto
+### ✨ Características del Proyecto
 
 📟 Pantalla IPS integrada
 
