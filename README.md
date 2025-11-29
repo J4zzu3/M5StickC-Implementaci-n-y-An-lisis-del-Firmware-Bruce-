@@ -205,6 +205,14 @@ Alteración de sistemas de terceros
 
 # Estare actualizando el repo y probando diferentes ataques que brinda el bruce en mi laboratorio
 
+# ⊹ ࣪ ˖ Redes
+
+Linkedin = [Josue Garcia](https://www.linkedin.com/in/josue-aaron-ccose-garcia-b5066b39a/)
+
+GitHub   = [J4zzu3](https://github.com/J4zzu3)
+
+
+
 
 ```text
 
@@ -212,13 +220,12 @@ Alteración de sistemas de terceros
 ⠀  ⠀   (\__/)
         (•ㅅ•)      GRACIAS BROOO!!!
      ＿ノヽ ノ＼＿      
- `/　`/ ⌒Ｙ⌒ Ｙ  ヽ      THANK YOU!!!
- (  (三ヽ人　 /　  |
- |　ﾉ⌒＼ ￣￣ヽ   ノ
+  `/　`/ ⌒Ｙ⌒ Ｙ  ヽ      THANK YOU!!!
+  (  (三ヽ人　 /　  |
+  |　ﾉ⌒＼ ￣￣ヽ   ノ
  ヽ＿ ＿ ＿＞､＿_／
        ｜( 王 ﾉ〈   (\__/)
-       /ﾐ`ー―彡\   (•ㅅ•)
-      / ╰    ╯ \  /    \>
+        /ﾐ`ー―彡\   (•ㅅ•)
+       / ╰    ╯ \  /    \>
 mafer<3
-
 
