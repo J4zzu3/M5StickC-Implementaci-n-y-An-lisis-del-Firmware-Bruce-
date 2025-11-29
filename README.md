@@ -175,4 +175,6 @@ Bruce nos permite cargar nuestra propio codigo HTML y crear un portal cautivo.
 
 ### ⚙️ Seguimos:
 
+![](https://github.com/J4zzu3/M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-/blob/main/Captura%20de%20pantalla%202025-11-28%20212133.png)
+
 
