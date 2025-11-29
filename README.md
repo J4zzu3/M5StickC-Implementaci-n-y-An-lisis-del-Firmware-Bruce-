@@ -123,20 +123,21 @@ Debes ver en pantalla el menú principal de Bruce.
 
 # 🔵 BLUETOOTH / BLE
 
-1. BLE Beacon Flood
+<3 BLE Beacon Flood
 
-Generación masiva de anuncios BLE para pruebas de carga, ruido y resistencia de escáneres.
+--> Generación masiva de anuncios BLE para pruebas de carga, ruido y resistencia de escáneres.
 
-2. Random MAC Advertising
+<3 Random MAC Advertising
 
-Anuncios BLE con direcciones MAC aleatorias.
+--> Anuncios BLE con direcciones MAC aleatorias.
 
-3. BLE scan
+<3 BLE scan
 
-Nos muestra en tiempo real las MAC de los dispositicos en nuestro radio de alcance
+--> Nos muestra en tiempo real las MAC de los dispositicos en nuestro radio de alcance
 
 # 🌐 WIFI
 
+<3 Beacon Spam
 
 
 
