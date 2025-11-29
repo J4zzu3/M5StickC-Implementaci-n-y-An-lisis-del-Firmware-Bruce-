@@ -67,7 +67,6 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 🔐 Enfoque ético de investigación
 
-[!] No se incentiva ni documenta el uso ilegal de RF. [!]
 
 ---
 
