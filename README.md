@@ -9,11 +9,13 @@ El M5StickC, basado en ESP32, permite interactuar con diferentes protocolos inal
 🎯 Propósito Educativo
 
 El objetivo es:
-Aprender sobre firmware alternativo en dispositivos ESP32
 
-Comprender el funcionamiento interno del M5StickC
-Realizar experimentos con  de BLE, NFC  y funciones integradas
-Practicar métodos de investigación en seguridad IoT
+[+] Aprender sobre firmware alternativo en dispositivos ESP32
+
+[+] Comprender el funcionamiento interno del M5StickC
+
+[+] Realizar experimentos con  de BLE, NFC  y funciones integradas
+[+]Practicar métodos de investigación en seguridad IoT
 Documentar el proceso de instalación, uso y limitaciones del firmware Bruce
 Y APROVECHAR EL ECOSISTEMA DEL HARWARE HACKING
 
