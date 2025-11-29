@@ -90,6 +90,8 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 Instalar M5Burner
 
+[Intalacion de M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
+
 Descargar el firmware Bruce para ESP32/M5StickC
 
 2. Conectar el M5StickC Plus2
@@ -118,4 +120,4 @@ Debes ver en pantalla el menú principal de Bruce.
 
  ### 🚀 Uso 
  
-[Documentación Oficial de M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
+[Intalacion de M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
