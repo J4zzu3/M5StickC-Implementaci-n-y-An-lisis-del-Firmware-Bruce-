@@ -66,9 +66,11 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 🔐 Enfoque ético de investigación
 
-[!]No se incentiva ni documenta el uso ilegal de RF.
+[!] No se incentiva ni documenta el uso ilegal de RF. [!]
 
 ---
+
+🛠️ Hardware Requerido
 
 🛠️ Hardware Requerido
 
@@ -78,7 +80,7 @@ Comunicación RF en bandas de 2.4 GHz para:
 | :--- | :--- |
 | Dispositivo principal | M5StickC Plus2 (M5Stick M2) |
 | MCU | ESP32-PICO-V3-02 |
-| Módulo RF opcional | NRF24L01 (PA/LNA o estándar) |
+| Módulo RF opcional | NRF24L01  |
 | Cable | USB-C |
 | Alimentación | 5V / 500mA |
 
