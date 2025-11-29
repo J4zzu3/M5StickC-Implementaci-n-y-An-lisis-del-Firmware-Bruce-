@@ -175,6 +175,49 @@ Bruce nos permite cargar nuestra propio codigo HTML y crear un portal cautivo.
 
 ### ⚙️ Seguimos:
 
-![](https://github.com/J4zzu3/M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-/blob/main/Captura%20de%20pantalla%202025-11-28%20212133.png)
+![](https://github.com/J4zzu3/M5StickC-Implementaci-n-y-An-lisis-del-Firmware-Bruce-/blob/main/pineshss.png)
+
+
+#  🚨 ADVERTENCIA:
+
+### ⚠️ USO EXCLUSIVAMENTE EDUCATIVO Y AUTORIZADO
+
+✅ Permitido:
+
+Investigación en entornos controlados
+
+Análisis de señales BLE propias
+
+Laboratorios de RF con hardware autorizado
+
+Auditorías y pentesting con permiso explícito
+
+❌ Prohibido:
+
+Interferencia en el espectro
+
+Monitorización de dispositivos ajenos
+
+Acceso no autorizado
+
+Alteración de sistemas de terceros
+
+
+
+
+```text
+
+
+⠀  ⠀   (\__/)
+        (•ㅅ•)      GRACIAS BROOO!!!
+     ＿ノヽ ノ＼＿      
+ `/　`/ ⌒Ｙ⌒ Ｙ  ヽ      THANK YOU!!!
+ (  (三ヽ人　 /　  |
+ |　ﾉ⌒＼ ￣￣ヽ   ノ
+ ヽ＿ ＿ ＿＞､＿_／
+       ｜( 王 ﾉ〈   (\__/)
+       /ﾐ`ー―彡\   (•ㅅ•)
+      / ╰    ╯ \  /    \>
+
 
 
