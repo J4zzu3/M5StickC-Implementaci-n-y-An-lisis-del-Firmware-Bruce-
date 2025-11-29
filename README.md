@@ -45,14 +45,20 @@ El objetivo es:
 Comunicación RF en bandas de 2.4 GHz para:
 
 [+] pruebas de laboratorio
+
 [+] análisis de paquetes
+
 [+] detección de actividad RF
+
 [+] mediciones comparativas basicas.
+
 
 🔋 Portabilidad total
 
 [+] Batería interna 
+
 [+] tamaño compacto 
+
 [+] ideal para pruebas de campo controladas.
 
 🧩 Firmware ligero y rápido
@@ -82,29 +88,34 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 1. Preparar entorno
 
-> Instalar M5Burner
+Instalar M5Burner
 
-> Descargar el firmware Bruce para ESP32/M5StickC
+Descargar el firmware Bruce para ESP32/M5StickC
 
 2. Conectar el M5StickC Plus2
 
-> Conectar por USB-C
+Conectar por USB-C
 
-> Abrir M5Burner
+Abrir M5Burner
 
-> Seleccionar dispositivo
+Seleccionar dispositivo
 
 3. Flashear
 
-> Elegir “Bruce”
+Elegir “Bruce”
 
-> Configurar WiFi si aplica (algunas versiones)
+Configurar WiFi si aplica (algunas versiones)
 
-> Burn
+Burn
 
-> Reiniciar
+Reiniciar
 
 4. Inicio
 
-> Debes ver en pantalla el menú principal de Bruce.
+Debes ver en pantalla el menú principal de Bruce.
 
+---
+
+ ### 🚀 Uso 
+ 
+[Documentación Oficial de M5Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
