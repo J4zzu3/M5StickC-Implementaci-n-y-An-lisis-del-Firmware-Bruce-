@@ -86,7 +86,7 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 ### 📥 Instalación (Firmware Bruce)
 
-1. Preparar entorno
+Preparar entorno
 
 Instalar M5Burner
 
