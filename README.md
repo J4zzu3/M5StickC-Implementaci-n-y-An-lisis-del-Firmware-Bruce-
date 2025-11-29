@@ -70,9 +70,6 @@ Comunicación RF en bandas de 2.4 GHz para:
 
 ---
 
-🛠️ Hardware Requerido
-
-🛠️ Hardware Requerido
 
 ### 🛠️ Hardware Requerido
 
